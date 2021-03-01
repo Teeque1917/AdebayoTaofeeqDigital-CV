@@ -16,7 +16,7 @@ _Tecnical Support Engineer, Front End Web Developer, Application Developer_ <br>
 **Frontend Engineer** @ [CPMS](https://cpms.com.ng/) _(August 2020 - Present)_ <br>
 An IT Solutions Company focused on IT Solutions for different niches
   - Extending and Maintaining Company Website
-  - Building Custom Application Softwares
+  - Built a POS Application Software that enables inventory management, cashier control and track sales
   - Ownership of CPMS' [technical blog] (https://cpms.com.ng/blog)
   - **_Technologies used:_** HTML, CSS, Javascript, Wordpress, Python, MongoDB.
 <br><br>
@@ -28,6 +28,11 @@ A Government Agency focused on ensuring effective distribution of petroleum prod
     <br><br>
 
 ## 📌 Personal Achievement
+
+**POS Application Development** @ [CPMS](https://www.cephatopltd.com.ng/)<br>
+A Real Estate Agency based in Lagos Nigeria
+  - Built the [website](https://www.cephatopltd.com.ng) that enables real estate listing and management
+  <br><br>
 
 **Wordpress Development** @ [Cephatop](https://www.cephatopltd.com.ng/)<br>
 A Real Estate Agency based in Lagos Nigeria
@@ -41,14 +46,11 @@ An ecommerce startup
   
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Packpub HTML and CSS Workshop** <br>
+[PackPub](https://www.packpub.com/) - Online _(May 2020 - July 2020)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**Packpub Javascript Workshop** <br>
+[Packpub](https://www.packpub.com/) - Online _(July 2020 - August 2020)_
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Obafemi Awolowo University** studying Electronic and ELectrical Engineering<br>
+[Obafemi Awolowo University](https://oauife.edu.ng) - Ile-Ife, Nigeria _(August 2014 - February 2018)_
