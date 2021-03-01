@@ -28,12 +28,6 @@ A Government Agency focused on ensuring effective distribution of petroleum prod
     <br><br>
 
 ## 📌 Personal Achievement
-
-**POS Application Development** @ [CPMS](https://www.cephatopltd.com.ng/)<br>
-A Real Estate Agency based in Lagos Nigeria
-  - Built the [website](https://www.cephatopltd.com.ng) that enables real estate listing and management
-  <br><br>
-
 **Wordpress Development** @ [Cephatop](https://www.cephatopltd.com.ng/)<br>
 A Real Estate Agency based in Lagos Nigeria
   - Built the [website](https://www.cephatopltd.com.ng) that enables real estate listing and management
